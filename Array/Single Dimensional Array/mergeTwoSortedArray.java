@@ -1,3 +1,4 @@
+// Merge two sorted arrays without using 3 Pointer Approach
 public class mergeTwoSortedArray {
     public static void main(String[] args) {
         int[] arr1 = {1,3,5,7,9};
